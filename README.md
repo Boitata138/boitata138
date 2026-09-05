@@ -16,6 +16,7 @@
 
 -🖥️ Preparando-se para o mercado de tecnologia
 
+
 ##🪧Como me encontrar 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:alves.nand@gmail.com)
