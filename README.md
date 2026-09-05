@@ -16,4 +16,4 @@
 
 -🖥️ Preparando-se para o mercado de tecnologia
 
-- Contato: alves.nand@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:alves.nand@gmail.com)
